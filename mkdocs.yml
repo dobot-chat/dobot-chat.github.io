@@ -1,9 +1,0 @@
-site_name: DoBot.chat
-deploy:
-  branch: main
-theme:
-  name: null
-  custom_dir: 'cinder'
-nav:
-  - Home: index.md
-  
